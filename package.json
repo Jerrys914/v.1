@@ -1,0 +1,23 @@
+{
+  "name": "mirrorv1",
+  "version": "1.0.0",
+  "description": "> [https://www.youtube.com/watch?v=ieBtXwHvoNk](https://www.youtube.com/watch?v=ieBtXwHvoNk)",
+  "main": "index.js",
+  "dependencies": {
+    "capture-video-frame": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackathon-nyc/v.1.git"
+  },
+  "author": "Dev Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackathon-nyc/v.1/issues"
+  },
+  "homepage": "https://github.com/hackathon-nyc/v.1#readme"
+}
